@@ -1,3 +1,9 @@
 # English-Automobiles-Dataset
 
-The dataset source is Autos.ca, which is a Canadian automobile online forum. The dataset size is of 4014 unique records where all duplicated records were removed using the option of remove duplicates of Microsoft Excel. The dataset is divided into 2078 positive, 1467 negative and 469 mixed opinions records, and it focuses on almost 56 domains related to automobiles.
+This data set contains around 4014 unique reviews about automobiles divided into three sentimental classes as follows: 
+1- 2078 positive reviews.
+2- 1467 negative reviews.
+3- 469 mixed reviews.
+
+The dataset is sourced from the Canadaian online forum "Autos.ca". It should only be used for academic purposes. 
+
