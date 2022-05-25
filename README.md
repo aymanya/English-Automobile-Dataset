@@ -1,9 +1,12 @@
 # English-Automobiles-Dataset
 
-This data set contains around 4014 unique reviews about automobiles divided into three sentimental classes as follows: 
-1- 2078 positive reviews.
-2- 1467 negative reviews.
-3- 469 mixed reviews.
+This data collection contains roughly 4014 distinct automotive opinions, which are split into three sentimental categories:
 
-The dataset is sourced from the Canadaian online forum "Autos.ca". It should only be used for academic purposes. 
+1- 2078 positive opinions
+2- 1467 negative opinions
+3- 469 mixed opinions
 
+
+The data comes from the "Autos.ca" Canadian website.
+
+It should only be used in research works.
